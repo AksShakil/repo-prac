@@ -1,1 +1,3 @@
-repository practice is good
+repository practice is good.
+
+i have local and remote branch both.
